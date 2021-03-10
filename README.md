@@ -1,0 +1,1 @@
+This is a simple starter tempate for front-end projects.
